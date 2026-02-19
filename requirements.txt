@@ -1,7 +1,0 @@
-torch
-nnunetv2
-simpleitk
-numpy
-matplotlib
-scikit-image
-tqdm
